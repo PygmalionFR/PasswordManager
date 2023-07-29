@@ -43,4 +43,3 @@ Ce projet est un gestionnaire de mots de passe simple réalisé en utilisant Pyt
 - Les mots de passe sont stockés localement dans une base de données SQLite appelée `passwords.db`.
 - Assurez-vous de sauvegarder vos mots de passe en toute sécurité, car ils ne sont pas récupérables en cas de perte de la base de données.
 
-C'est tout ! Vous pouvez maintenant utiliser ce gestionnaire de mots de passe pour stocker et gérer vos informations de connexion en toute sécurité. Si vous rencontrez des problèmes ou souhaitez améliorer l'application, n'hésitez pas à apporter des modifications au code source. Amusez-vous bien !
